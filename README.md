@@ -1,6 +1,6 @@
 # Welcome to 2021 Winter Studying Camp 
 
-- [Welcome to 2021 Winter Studying Camp](#welcome-to-2021-winter-studying-camp)
+# 目录表（点击跳转）
 - [寒假预设班级](#------)
 - [老师简介](#----)
 - [建议补习内容和对象](#---------)
@@ -8,7 +8,6 @@
 - [收费标准](#----)
 - [联系方式](#----)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # 寒假预设班级
